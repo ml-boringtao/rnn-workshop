@@ -1,2 +1,2 @@
-# rnn
+# RNN
 Xception LSTM
